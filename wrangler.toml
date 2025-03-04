@@ -1,5 +1,0 @@
-name = "vrncity-website"
-compatibility_date = "2024-03-04"
-
-[site]
-bucket = "./dist" # 或您的實際構建輸出目錄 
